@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "7mM4tb89puHAm2chg7+fmRkkHryAjLToEsAdw0LkQyV3LRmifNcXUUbU6QA6rug8RBU3v2ro/ZRRxwqD4Fb0xQ==",
+  "success": true,
+  "projectFilePath": "/Users/dpi-pttl-59/Workspace/LearningCSharp/DotNet7/Finished/Classes/Inheritance/Inheritance.csproj",
+  "expectedPackageFiles": [
+    "/Users/dpi-pttl-59/.nuget/packages/microsoft.netcore.app.ref/7.0.15/microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
+    "/Users/dpi-pttl-59/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.15/microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512",
+    "/Users/dpi-pttl-59/.nuget/packages/microsoft.netcore.app.host.osx-arm64/7.0.15/microsoft.netcore.app.host.osx-arm64.7.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "51RqWJIF857uso3E94ydSjwefhQSgZarv6nU2CNvR8++F3MrkdFvTD7qt8hCDvixduUiJ1/Oy8AtFGAZ8exseA==",
+  "success": true,
+  "projectFilePath": "/Users/dpi-pttl-59/Workspace/LearningCSharp/DotNet7/Start/Overview/Comments/Comments.csproj",
+  "expectedPackageFiles": [
+    "/Users/dpi-pttl-59/.nuget/packages/microsoft.netcore.app.ref/7.0.15/microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
+    "/Users/dpi-pttl-59/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.15/microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512",
+    "/Users/dpi-pttl-59/.nuget/packages/microsoft.netcore.app.host.osx-arm64/7.0.15/microsoft.netcore.app.host.osx-arm64.7.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

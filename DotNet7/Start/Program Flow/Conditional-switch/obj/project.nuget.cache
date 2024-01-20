@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "dsosIUTx7jjIIW+tZ8h/3hv3UzKhXOUfJf8Z/JEag05SwDx698SfB7WBONEBGLQYk/986ZaIqo+eRauz8FqHyw==",
+  "success": true,
+  "projectFilePath": "/Users/dpi-pttl-59/Workspace/LearningCSharp/DotNet7/Start/Program Flow/Conditional-switch/ConditionalOps.csproj",
+  "expectedPackageFiles": [
+    "/Users/dpi-pttl-59/.nuget/packages/microsoft.netcore.app.ref/7.0.15/microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
+    "/Users/dpi-pttl-59/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.15/microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512",
+    "/Users/dpi-pttl-59/.nuget/packages/microsoft.netcore.app.host.osx-arm64/7.0.15/microsoft.netcore.app.host.osx-arm64.7.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

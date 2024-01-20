@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "dgWab4kYU4ndrPoEjaPHXF3bJwBaJpyXPhO1d6wWSTbm8W8G/ReAieMCa3+Cyi4rzWsAChMNOxA3hf5wdxvyuw==",
+  "success": true,
+  "projectFilePath": "/Users/dpi-pttl-59/Workspace/LearningCSharp/DotNet5/Finished/Program Flow/BreakContinue/BreakContinue.csproj",
+  "expectedPackageFiles": [
+    "/Users/dpi-pttl-59/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "/Users/dpi-pttl-59/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "/Users/dpi-pttl-59/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.17/microsoft.netcore.app.host.osx-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

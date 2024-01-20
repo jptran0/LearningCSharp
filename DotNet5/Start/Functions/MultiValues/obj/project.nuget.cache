@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "tDct0Xu3k2M1H7OZqtYAjT+anRYAZ06JXutO7bcZvZrOLg/Jk9qa/VmhELuaF7JVpe29zbtDoR1423X7PsR0yg==",
+  "success": true,
+  "projectFilePath": "/Users/dpi-pttl-59/Workspace/LearningCSharp/DotNet5/Start/Functions/MultiValues/MultiValues.csproj",
+  "expectedPackageFiles": [
+    "/Users/dpi-pttl-59/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "/Users/dpi-pttl-59/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "/Users/dpi-pttl-59/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.17/microsoft.netcore.app.host.osx-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
