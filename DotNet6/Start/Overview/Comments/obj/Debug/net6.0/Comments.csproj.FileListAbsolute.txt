@@ -1,0 +1,16 @@
+/Users/dpi-pttl-59/Workspace/LearningCSharp/DotNet6/Start/Overview/Comments/bin/Debug/net6.0/Comments
+/Users/dpi-pttl-59/Workspace/LearningCSharp/DotNet6/Start/Overview/Comments/bin/Debug/net6.0/Comments.deps.json
+/Users/dpi-pttl-59/Workspace/LearningCSharp/DotNet6/Start/Overview/Comments/bin/Debug/net6.0/Comments.runtimeconfig.json
+/Users/dpi-pttl-59/Workspace/LearningCSharp/DotNet6/Start/Overview/Comments/bin/Debug/net6.0/Comments.dll
+/Users/dpi-pttl-59/Workspace/LearningCSharp/DotNet6/Start/Overview/Comments/bin/Debug/net6.0/Comments.pdb
+/Users/dpi-pttl-59/Workspace/LearningCSharp/DotNet6/Start/Overview/Comments/bin/Debug/net6.0/Comments.xml
+/Users/dpi-pttl-59/Workspace/LearningCSharp/DotNet6/Start/Overview/Comments/obj/Debug/net6.0/Comments.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dpi-pttl-59/Workspace/LearningCSharp/DotNet6/Start/Overview/Comments/obj/Debug/net6.0/Comments.AssemblyInfoInputs.cache
+/Users/dpi-pttl-59/Workspace/LearningCSharp/DotNet6/Start/Overview/Comments/obj/Debug/net6.0/Comments.AssemblyInfo.cs
+/Users/dpi-pttl-59/Workspace/LearningCSharp/DotNet6/Start/Overview/Comments/obj/Debug/net6.0/Comments.csproj.CoreCompileInputs.cache
+/Users/dpi-pttl-59/Workspace/LearningCSharp/DotNet6/Start/Overview/Comments/obj/Debug/net6.0/Comments.sourcelink.json
+/Users/dpi-pttl-59/Workspace/LearningCSharp/DotNet6/Start/Overview/Comments/obj/Debug/net6.0/Comments.dll
+/Users/dpi-pttl-59/Workspace/LearningCSharp/DotNet6/Start/Overview/Comments/obj/Debug/net6.0/refint/Comments.dll
+/Users/dpi-pttl-59/Workspace/LearningCSharp/DotNet6/Start/Overview/Comments/obj/Debug/net6.0/Comments.pdb
+/Users/dpi-pttl-59/Workspace/LearningCSharp/DotNet6/Start/Overview/Comments/obj/Debug/net6.0/Comments.genruntimeconfig.cache
+/Users/dpi-pttl-59/Workspace/LearningCSharp/DotNet6/Start/Overview/Comments/obj/Debug/net6.0/ref/Comments.dll
