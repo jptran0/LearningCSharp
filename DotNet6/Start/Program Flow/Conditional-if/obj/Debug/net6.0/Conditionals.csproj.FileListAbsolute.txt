@@ -1,0 +1,15 @@
+/Users/dpi-pttl-59/Workspace/LearningCSharp/DotNet6/Start/Program Flow/Conditional-if/obj/Debug/net6.0/Conditionals.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dpi-pttl-59/Workspace/LearningCSharp/DotNet6/Start/Program Flow/Conditional-if/obj/Debug/net6.0/Conditionals.AssemblyInfoInputs.cache
+/Users/dpi-pttl-59/Workspace/LearningCSharp/DotNet6/Start/Program Flow/Conditional-if/obj/Debug/net6.0/Conditionals.AssemblyInfo.cs
+/Users/dpi-pttl-59/Workspace/LearningCSharp/DotNet6/Start/Program Flow/Conditional-if/obj/Debug/net6.0/Conditionals.csproj.CoreCompileInputs.cache
+/Users/dpi-pttl-59/Workspace/LearningCSharp/DotNet6/Start/Program Flow/Conditional-if/obj/Debug/net6.0/Conditionals.sourcelink.json
+/Users/dpi-pttl-59/Workspace/LearningCSharp/DotNet6/Start/Program Flow/Conditional-if/bin/Debug/net6.0/Conditionals
+/Users/dpi-pttl-59/Workspace/LearningCSharp/DotNet6/Start/Program Flow/Conditional-if/bin/Debug/net6.0/Conditionals.deps.json
+/Users/dpi-pttl-59/Workspace/LearningCSharp/DotNet6/Start/Program Flow/Conditional-if/bin/Debug/net6.0/Conditionals.runtimeconfig.json
+/Users/dpi-pttl-59/Workspace/LearningCSharp/DotNet6/Start/Program Flow/Conditional-if/bin/Debug/net6.0/Conditionals.dll
+/Users/dpi-pttl-59/Workspace/LearningCSharp/DotNet6/Start/Program Flow/Conditional-if/bin/Debug/net6.0/Conditionals.pdb
+/Users/dpi-pttl-59/Workspace/LearningCSharp/DotNet6/Start/Program Flow/Conditional-if/obj/Debug/net6.0/Conditionals.dll
+/Users/dpi-pttl-59/Workspace/LearningCSharp/DotNet6/Start/Program Flow/Conditional-if/obj/Debug/net6.0/refint/Conditionals.dll
+/Users/dpi-pttl-59/Workspace/LearningCSharp/DotNet6/Start/Program Flow/Conditional-if/obj/Debug/net6.0/Conditionals.pdb
+/Users/dpi-pttl-59/Workspace/LearningCSharp/DotNet6/Start/Program Flow/Conditional-if/obj/Debug/net6.0/Conditionals.genruntimeconfig.cache
+/Users/dpi-pttl-59/Workspace/LearningCSharp/DotNet6/Start/Program Flow/Conditional-if/obj/Debug/net6.0/ref/Conditionals.dll
