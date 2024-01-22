@@ -1,0 +1,15 @@
+/Users/dpi-pttl-59/Workspace/LearningCSharp/DotNet6/Start/Functions/RefAndOutParams/obj/Debug/net6.0/RefAndOut.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dpi-pttl-59/Workspace/LearningCSharp/DotNet6/Start/Functions/RefAndOutParams/obj/Debug/net6.0/RefAndOut.AssemblyInfoInputs.cache
+/Users/dpi-pttl-59/Workspace/LearningCSharp/DotNet6/Start/Functions/RefAndOutParams/obj/Debug/net6.0/RefAndOut.AssemblyInfo.cs
+/Users/dpi-pttl-59/Workspace/LearningCSharp/DotNet6/Start/Functions/RefAndOutParams/obj/Debug/net6.0/RefAndOut.csproj.CoreCompileInputs.cache
+/Users/dpi-pttl-59/Workspace/LearningCSharp/DotNet6/Start/Functions/RefAndOutParams/obj/Debug/net6.0/RefAndOut.sourcelink.json
+/Users/dpi-pttl-59/Workspace/LearningCSharp/DotNet6/Start/Functions/RefAndOutParams/bin/Debug/net6.0/RefAndOut
+/Users/dpi-pttl-59/Workspace/LearningCSharp/DotNet6/Start/Functions/RefAndOutParams/bin/Debug/net6.0/RefAndOut.deps.json
+/Users/dpi-pttl-59/Workspace/LearningCSharp/DotNet6/Start/Functions/RefAndOutParams/bin/Debug/net6.0/RefAndOut.runtimeconfig.json
+/Users/dpi-pttl-59/Workspace/LearningCSharp/DotNet6/Start/Functions/RefAndOutParams/bin/Debug/net6.0/RefAndOut.dll
+/Users/dpi-pttl-59/Workspace/LearningCSharp/DotNet6/Start/Functions/RefAndOutParams/bin/Debug/net6.0/RefAndOut.pdb
+/Users/dpi-pttl-59/Workspace/LearningCSharp/DotNet6/Start/Functions/RefAndOutParams/obj/Debug/net6.0/RefAndOut.dll
+/Users/dpi-pttl-59/Workspace/LearningCSharp/DotNet6/Start/Functions/RefAndOutParams/obj/Debug/net6.0/refint/RefAndOut.dll
+/Users/dpi-pttl-59/Workspace/LearningCSharp/DotNet6/Start/Functions/RefAndOutParams/obj/Debug/net6.0/RefAndOut.pdb
+/Users/dpi-pttl-59/Workspace/LearningCSharp/DotNet6/Start/Functions/RefAndOutParams/obj/Debug/net6.0/RefAndOut.genruntimeconfig.cache
+/Users/dpi-pttl-59/Workspace/LearningCSharp/DotNet6/Start/Functions/RefAndOutParams/obj/Debug/net6.0/ref/RefAndOut.dll
