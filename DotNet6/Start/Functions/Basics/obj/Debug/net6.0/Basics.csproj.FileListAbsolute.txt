@@ -1,0 +1,15 @@
+/Users/dpi-pttl-59/Workspace/LearningCSharp/DotNet6/Start/Functions/Basics/bin/Debug/net6.0/Basics
+/Users/dpi-pttl-59/Workspace/LearningCSharp/DotNet6/Start/Functions/Basics/bin/Debug/net6.0/Basics.deps.json
+/Users/dpi-pttl-59/Workspace/LearningCSharp/DotNet6/Start/Functions/Basics/bin/Debug/net6.0/Basics.runtimeconfig.json
+/Users/dpi-pttl-59/Workspace/LearningCSharp/DotNet6/Start/Functions/Basics/bin/Debug/net6.0/Basics.dll
+/Users/dpi-pttl-59/Workspace/LearningCSharp/DotNet6/Start/Functions/Basics/bin/Debug/net6.0/Basics.pdb
+/Users/dpi-pttl-59/Workspace/LearningCSharp/DotNet6/Start/Functions/Basics/obj/Debug/net6.0/Basics.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dpi-pttl-59/Workspace/LearningCSharp/DotNet6/Start/Functions/Basics/obj/Debug/net6.0/Basics.AssemblyInfoInputs.cache
+/Users/dpi-pttl-59/Workspace/LearningCSharp/DotNet6/Start/Functions/Basics/obj/Debug/net6.0/Basics.AssemblyInfo.cs
+/Users/dpi-pttl-59/Workspace/LearningCSharp/DotNet6/Start/Functions/Basics/obj/Debug/net6.0/Basics.csproj.CoreCompileInputs.cache
+/Users/dpi-pttl-59/Workspace/LearningCSharp/DotNet6/Start/Functions/Basics/obj/Debug/net6.0/Basics.sourcelink.json
+/Users/dpi-pttl-59/Workspace/LearningCSharp/DotNet6/Start/Functions/Basics/obj/Debug/net6.0/Basics.dll
+/Users/dpi-pttl-59/Workspace/LearningCSharp/DotNet6/Start/Functions/Basics/obj/Debug/net6.0/refint/Basics.dll
+/Users/dpi-pttl-59/Workspace/LearningCSharp/DotNet6/Start/Functions/Basics/obj/Debug/net6.0/Basics.pdb
+/Users/dpi-pttl-59/Workspace/LearningCSharp/DotNet6/Start/Functions/Basics/obj/Debug/net6.0/Basics.genruntimeconfig.cache
+/Users/dpi-pttl-59/Workspace/LearningCSharp/DotNet6/Start/Functions/Basics/obj/Debug/net6.0/ref/Basics.dll
