@@ -1,0 +1,15 @@
+/Users/dpi-pttl-59/Workspace/LearningCSharp/DotNet6/Start/Strings/Operations/bin/Debug/net6.0/Operations
+/Users/dpi-pttl-59/Workspace/LearningCSharp/DotNet6/Start/Strings/Operations/bin/Debug/net6.0/Operations.deps.json
+/Users/dpi-pttl-59/Workspace/LearningCSharp/DotNet6/Start/Strings/Operations/bin/Debug/net6.0/Operations.runtimeconfig.json
+/Users/dpi-pttl-59/Workspace/LearningCSharp/DotNet6/Start/Strings/Operations/bin/Debug/net6.0/Operations.dll
+/Users/dpi-pttl-59/Workspace/LearningCSharp/DotNet6/Start/Strings/Operations/bin/Debug/net6.0/Operations.pdb
+/Users/dpi-pttl-59/Workspace/LearningCSharp/DotNet6/Start/Strings/Operations/obj/Debug/net6.0/Operations.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dpi-pttl-59/Workspace/LearningCSharp/DotNet6/Start/Strings/Operations/obj/Debug/net6.0/Operations.AssemblyInfoInputs.cache
+/Users/dpi-pttl-59/Workspace/LearningCSharp/DotNet6/Start/Strings/Operations/obj/Debug/net6.0/Operations.AssemblyInfo.cs
+/Users/dpi-pttl-59/Workspace/LearningCSharp/DotNet6/Start/Strings/Operations/obj/Debug/net6.0/Operations.csproj.CoreCompileInputs.cache
+/Users/dpi-pttl-59/Workspace/LearningCSharp/DotNet6/Start/Strings/Operations/obj/Debug/net6.0/Operations.sourcelink.json
+/Users/dpi-pttl-59/Workspace/LearningCSharp/DotNet6/Start/Strings/Operations/obj/Debug/net6.0/Operations.dll
+/Users/dpi-pttl-59/Workspace/LearningCSharp/DotNet6/Start/Strings/Operations/obj/Debug/net6.0/refint/Operations.dll
+/Users/dpi-pttl-59/Workspace/LearningCSharp/DotNet6/Start/Strings/Operations/obj/Debug/net6.0/Operations.pdb
+/Users/dpi-pttl-59/Workspace/LearningCSharp/DotNet6/Start/Strings/Operations/obj/Debug/net6.0/Operations.genruntimeconfig.cache
+/Users/dpi-pttl-59/Workspace/LearningCSharp/DotNet6/Start/Strings/Operations/obj/Debug/net6.0/ref/Operations.dll
